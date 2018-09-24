@@ -16,3 +16,9 @@ passengers.each do |suite, name|
 end
 winner
 end
+
+birthday_kids = {
+    "Timmy" => 9,
+    "Sarah" => 6,
+    "Amanda" => 27
+}
